@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: jrb  Sat Jul 24 17:24:24 PDT 2004
+calibRootData/calibRootData
+
+Modified Files:
+	LinkDef.h 
+Removed Files:
+	Base.h 
+Log Message:
+No longer needed after class reorganization
+
+    *
+------------------------------------------------------------
 User: jrb  Thu Jul 22 16:28:30 PDT 2004
 calibRootData/calibRootData/Cal
 
