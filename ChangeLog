@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Wed Jul 21 12:38:13 PDT 2004
+calibRootData/calibRootData/Cal
+
+Modified Files:
+	CalGain.h 
+Log Message:
+Add accessor functions
+
+    *
+------------------------------------------------------------
 User: jrb  Wed Jul 21 12:09:38 PDT 2004
 calibRootData/src
 
