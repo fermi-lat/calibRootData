@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Tue Dec 28 23:55:02 PST 2004
+calibRootData/calibRootData/Tkr
+
+Modified Files:
+	Tot.h 
+Log Message:
+Don't depend on TClonesArray::LastIndex.  Keep array size as private variable
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r3, operation: add
 Package: calibRootData
