@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Thu Jul 22 16:28:30 PDT 2004
+calibRootData/calibRootData/Cal
+
+Modified Files:
+	CalBase.h CalDimension.h 
+Log Message:
+Add some services needed to go TDS -> ROOT
+
+    *
+------------------------------------------------------------
 User: jrb  Thu Jul 22 16:28:16 PDT 2004
 calibRootData/calibRootData
 
