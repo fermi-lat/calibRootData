@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Aug 11 00:22:23 PDT 2004
+calibRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+move to new RootcintPolicy rather than RootPolicy
+    *
+------------------------------------------------------------
 User: heather  Wed Aug 11 00:21:42 PDT 2004
 calibRootData/cmt
 
