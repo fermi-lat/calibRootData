@@ -1,4 +1,18 @@
 ------------------------------------------------------------
+User: jrb  Sat Jul 24 17:24:39 PDT 2004
+calibRootData/calibRootData/Cal
+
+Modified Files:
+	CalDimension.h CalGain.h CalGainCol.h 
+Added Files:
+	CalSerial.h 
+Removed Files:
+	CalBase.h 
+Log Message:
+No longer needed after class reorganization
+
+    *
+------------------------------------------------------------
 User: jrb  Sat Jul 24 17:24:24 PDT 2004
 calibRootData/calibRootData
 
