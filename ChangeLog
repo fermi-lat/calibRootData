@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Mon Jul 26 22:31:19 PDT 2004
+calibRootData/calibRootData/Cal
+
+Modified Files:
+	CalDimension.h CalGainCol.h 
+Log Message:
+Add a get method or two; clean up
+
+    *
+------------------------------------------------------------
 User: jrb  Mon Jul 26 22:30:45 PDT 2004
 calibRootData/calibRootData
 
