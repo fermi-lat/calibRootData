@@ -1,0 +1,40 @@
+------------------------------------------------------------
+User: jrb  Wed Jul 21 11:58:47 PDT 2004
+calibRootData
+
+Log Message:
+ROOT classes for calibration data
+
+Status:
+
+Vendor Tag:	GLAST
+Release Tags:	v0r0
+		
+N calibRootData/.cvsignore
+I calibRootData/cmt/Makefile
+N calibRootData/cmt/requirements
+N calibRootData/cmt/.cvsignore
+I calibRootData/cmt/setup.csh
+I calibRootData/cmt/setup.sh
+I calibRootData/cmt/cleanup.csh
+I calibRootData/cmt/cleanup.sh
+I calibRootData/cmt/requirements~
+I calibRootData/src/calibCalRootWriterAlg.cxx~
+I calibRootData/calibRootData/LinkDef.h~
+I calibRootData/calibRootData/DacCol.h~
+N calibRootData/calibRootData/DacCol.h
+N calibRootData/calibRootData/LinkDef.h
+I calibRootData/calibRootData/Base.h~
+N calibRootData/calibRootData/Base.h
+I calibRootData/calibRootData/Cal/CalGainCol.h~
+I calibRootData/calibRootData/Cal/CalGain.h~
+I calibRootData/calibRootData/Cal/CalDimension.h~
+I calibRootData/calibRootData/Cal/CalBase.h~
+N calibRootData/calibRootData/Cal/CalGainCol.h
+N calibRootData/calibRootData/Cal/CalGain.h
+N calibRootData/calibRootData/Cal/CalBase.h
+N calibRootData/calibRootData/Cal/CalDimension.h
+
+No conflicts created by this import
+
+    *
