@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Wed Jul 21 17:36:29 PDT 2004
+calibRootData/calibRootData/Cal
+
+Modified Files:
+	CalDimension.h 
+Log Message:
+Add another data member & accessor
+
+    *
+------------------------------------------------------------
 User: jrb  Wed Jul 21 16:13:51 PDT 2004
 calibRootData/doc
 
