@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Aug 11 00:21:42 PDT 2004
+calibRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+use new RootcintPolicy rather than RootPolicy
+    *
+------------------------------------------------------------
 User: jrb  Mon Jul 26 22:33:06 PDT 2004
 calibRootData/doc
 
