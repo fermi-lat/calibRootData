@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Wed Jul 21 16:10:36 PDT 2004
+calibRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Need commonRootData v1r* to get idents classes
+
+    *
+------------------------------------------------------------
 User: jrb  Wed Jul 21 16:10:09 PDT 2004
 calibRootData/calibRootData/Cal
 
