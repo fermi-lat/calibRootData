@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Thu Mar 31 16:24:21 PST 2005
+calibRootData/calibRootData
+
+Modified Files:
+	LinkDef.h 
+Log Message:
+Add charge scale classes
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r4p1, operation: add
 Package: calibRootData
