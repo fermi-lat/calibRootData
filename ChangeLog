@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Wed Jul 21 13:06:04 PDT 2004
+calibRootData/calibRootData/Cal
+
+Modified Files:
+	CalBase.h CalGainCol.h 
+Log Message:
+Specify includes differently to help rootcint find them
+
+    *
+------------------------------------------------------------
 User: jrb  Wed Jul 21 12:38:36 PDT 2004
 calibRootData/cmt
 
