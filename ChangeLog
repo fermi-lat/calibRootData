@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Wed Jul 21 16:09:34 PDT 2004
+calibRootData/calibRootData
+
+Modified Files:
+	DacCol.h 
+Log Message:
+Fix so it will compile
+
+    *
+------------------------------------------------------------
 User: heather  Wed Jul 21 14:22:59 PDT 2004
 calibRootData/calibRootData/Cal
 
