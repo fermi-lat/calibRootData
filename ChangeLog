@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Tue Dec 28 23:55:36 PST 2004
+calibRootData/src/Tkr
+
+Modified Files:
+	Tot.cxx 
+Log Message:
+Don't depend on TClonesArray::LastIndex.  Keep array size as private variable
+
+    *
+------------------------------------------------------------
 User: jrb  Tue Dec 28 23:55:02 PST 2004
 calibRootData/calibRootData/Tkr
 
