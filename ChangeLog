@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Jan 11 22:55:16 PST 2005
+calibRootData/calibRootData/Cal
+
+Modified Files:
+	CalGainCol.h CalSerial.h 
+Log Message:
+fixes to compile on Windows with ROOT 4.02.00...have to try on Linux
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r4p0, operation: add
 Package: calibRootData
