@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Fri Dec  3 16:18:53 PST 2004
+calibRootData/src/Tkr
+
+Added Files:
+	Tot.cxx 
+Log Message:
+Implementation of new classes for ToT ROOT calibration files
+
+    *
+------------------------------------------------------------
 User: jrb  Fri Dec  3 16:18:11 PST 2004
 calibRootData/cmt
 
