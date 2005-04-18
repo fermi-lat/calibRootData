@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Apr 18 10:45:05 PDT 2005
+calibRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+backout commonRootData namespace
+    *
+------------------------------------------------------------
 User: jrb  Mon Apr 18 00:43:51 PDT 2005
 calibRootData/calibRootData/Cal
 
