@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Mon Apr 18 00:43:51 PDT 2005
+calibRootData/calibRootData/Cal
+
+Modified Files:
+	CalGain.h CalGainCol.h 
+Log Message:
+Back out changes for use of namespace in commonRootData classes
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r6, operation: add
 Package: calibRootData
