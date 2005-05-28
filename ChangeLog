@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri May 27 19:16:41 PDT 2005
+calibRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+upgrade to v5 of RootcintPolicy
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r7, operation: add
 Package: calibRootData
