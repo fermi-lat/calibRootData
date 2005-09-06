@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Tue Sep  6 10:36:59 PDT 2005
+calibRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+use GlastPolicy explicitly
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r7p2, operation: add
 Package: calibRootData
