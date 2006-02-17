@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Fri Feb 17 09:58:14 PST 2006
+calibRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Change use of RootcintPolicy to v5r*
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r7p4, operation: add
 Package: calibRootData
