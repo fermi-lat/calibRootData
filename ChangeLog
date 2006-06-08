@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Thu Jun  8 15:28:22 PDT 2006
+calibRootData/src/Tkr
+
+Modified Files:
+	ChargeScale.cxx Tot.cxx 
+Log Message:
+Add explicit destructors
+
+    *
+------------------------------------------------------------
 User: jrb  Thu Jun  8 15:28:15 PDT 2006
 calibRootData/calibRootData/Tkr
 
