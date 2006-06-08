@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Thu Jun  8 15:28:15 PDT 2006
+calibRootData/calibRootData/Tkr
+
+Modified Files:
+	ChargeScale.h Tot.h 
+Log Message:
+Add explicit destructors
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r7p6, operation: add
 Package: calibRootData
