@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Tue Oct 23 18:53:17 PDT 2007
+calibRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+moving to v7 for RootcintPolicy
+    *
+------------------------------------------------------------
+User: heather  Tue Oct 23 18:53:17 PDT 2007
 calibRootData/cmt
 
 Modified Files:
