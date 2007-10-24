@@ -1,4 +1,30 @@
 ------------------------------------------------------------
+TAG
+Tag name: v1r7p8, operation: add
+Package: calibRootData
+User: heather  Tue Oct 23 18:53:36 2007
+Files:
+  calibRootData/.cvsignore  1.1.1.1
+  calibRootData/ChangeLog  1.103
+  calibRootData/calibRootData/DacCol.h  1.3
+  calibRootData/calibRootData/LinkDef.h  1.5
+  calibRootData/calibRootData/Cal/CalSerial.h  1.2
+  calibRootData/calibRootData/Cal/CalGain.h  1.6
+  calibRootData/calibRootData/Cal/CalDimension.h  1.6
+  calibRootData/calibRootData/Cal/CalGainCol.h  1.8
+  calibRootData/calibRootData/Tkr/Tot.h  1.4
+  calibRootData/calibRootData/Tkr/ChargeScale.h  1.2
+  calibRootData/calibRootData/Tkr/TkrTower.h  1.1
+  calibRootData/cmt/.cvsignore  1.1.1.1
+  calibRootData/cmt/requirements  1.34
+  calibRootData/doc/release.notes  1.21
+  calibRootData/src/mainpage.h  1.2
+  calibRootData/src/Tkr/Tot.cxx  1.3
+  calibRootData/src/Tkr/ChargeScale.cxx  1.2
+  calibRootData/src/test/makeTot.cxx  1.4
+
+    *
+------------------------------------------------------------
 User: heather  Tue Oct 23 18:53:17 PDT 2007
 calibRootData/doc
 
