@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: glastrm  Wed Jul  9 14:13:44 PDT 2008
+GlastRelease-scons/calibRootData
+
+Added Files:
+	SConscript calibRootDataLib.py 
+Log Message:
+Added SConscript files to packages
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r7p8, operation: add
 Package: calibRootData
