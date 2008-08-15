@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: ecephas  Fri Aug 15 14:22:45 PDT 2008
+GlastRelease-scons/calibRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+Added SConscript files for packages
+    *
+------------------------------------------------------------
 User: glast  Thu Jul 10 17:32:27 PDT 2008
 GlastRelease-scons/calibRootData
 
