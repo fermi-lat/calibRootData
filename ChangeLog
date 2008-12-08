@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: ecephas  Mon Dec  8 13:40:18 PST 2008
+GlastRelease-scons/calibRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+Check in SConscript for calibRootData v1r7p8 (for branch-tag, GlastReleasev15r49) 
+    *
+------------------------------------------------------------
 User: ecephas  Fri Aug 15 14:22:45 PDT 2008
 GlastRelease-scons/calibRootData
 
