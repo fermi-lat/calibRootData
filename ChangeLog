@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+TAG
+Tag name: calibRootData-01-07-08, operation: add
+Package: calibRootData
+User: ecephas  Mon Dec  8 13:40:24 2008
+Files:
+  calibRootData/SConscript  1.4
+  calibRootData/SConscript  1.4
+
+    *
+------------------------------------------------------------
 User: ecephas  Mon Dec  8 13:40:18 PST 2008
 GlastRelease-scons/calibRootData
 
