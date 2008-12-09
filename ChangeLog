@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: ecephas  Mon Dec  8 16:08:40 PST 2008
+GlastRelease-scons/calibRootData
+
+Modified Files:
+	calibRootDataLib.py 
+Log Message:
+Check in calibRootDataLib.py for calibRootData v1r7p8 (branch-tag, GlastReleasev15r49).
+    *
+------------------------------------------------------------
 TAG
 Tag name: calibRootData-01-07-08, operation: add
 Package: calibRootData
