@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+TAG
+Tag name: calibRootData-01-07-08, operation: add
+Package: calibRootData
+User: ecephas  Mon Dec  8 16:08:46 2008
+Files:
+  calibRootData/calibRootDataLib.py  1.3
+  calibRootData/calibRootDataLib.py  1.3
+
+    *
+------------------------------------------------------------
 User: ecephas  Mon Dec  8 16:08:40 PST 2008
 GlastRelease-scons/calibRootData
 
