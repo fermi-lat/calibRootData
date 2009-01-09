@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-15-49-00, operation: add
+Package: calibRootData
+User: glastrm  Fri Jan  9 13:25:46 2009
+Files:
+  calibRootData/calibRootDataLib.py  1.3
+  calibRootData/SConscript  1.4
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-15-50-10, operation: del
 Package: calibRootData
 User: glastrm  Fri Jan  9 08:31:23 2009
