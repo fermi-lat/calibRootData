@@ -1,4 +1,18 @@
 ------------------------------------------------------------
+TAG
+Tag name: calibRootData-01-07-08, operation: mov
+Package: calibRootData
+User: glastrm  Thu Jan 22 16:31:47 2009
+Files:
+  calibRootData/SConscript  1.5
+  calibRootData/SConscript  1.5
+  calibRootData/SConscript  1.5
+  calibRootData/calibRootDataLib.py  1.4
+  calibRootData/calibRootDataLib.py  1.4
+  calibRootData/calibRootDataLib.py  1.4
+
+    *
+------------------------------------------------------------
 User: ecephas  Thu Jan 22 16:21:05 PST 2009
 GlastRelease-scons/calibRootData
 
