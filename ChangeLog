@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Thu Aug  6 18:31:37 PDT 2009
+GlastRelease-scons/calibRootData
+
+Modified Files:
+	.cvsignore SConscript 
+Log Message:
+SConscript: use registerTargets
+.cvsignore: add SCons build products
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: calibRootData-01-07-08, operation: mov
 Package: calibRootData
