@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Thu Jun 10 17:41:45 PDT 2010
+GlastRelease-scons/calibRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+updates for SCons build
+    *
+------------------------------------------------------------
 TAG
 Tag name: calibRootData-01-07-09, operation: add
 Package: calibRootData
