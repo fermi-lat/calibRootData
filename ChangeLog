@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Fri Aug  6 12:05:58 PDT 2010
+GlastRelease-scons/calibRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+add new keyword args to Rootcint call
+    *
+------------------------------------------------------------
 TAG
 Tag name: calibRootData-01-07-10, operation: add
 Package: calibRootData
