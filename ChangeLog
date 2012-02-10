@@ -2,6 +2,14 @@
 TAG
 Tag name: GlastRelease-19-04-01-gr08, operation: add
 Package: calibRootData
+User: heather  Thu Feb  9 16:10:39 2012
+Files:
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: GlastRelease-19-04-01-gr08, operation: add
+Package: calibRootData
 User: heather  Thu Feb  9 12:38:32 2012
 Files:
   calibRootData/.cvsignore  1.2
