@@ -1,5 +1,33 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-20-09-10, operation: add
+Package: calibRootData
+User: heather  Wed May 14 08:36:08 2014
+Files:
+  calibRootData/.cvsignore  1.2
+  calibRootData/calibRootDataLib.py  1.5
+  calibRootData/ChangeLog  1.236
+  calibRootData/SConscript  1.12
+  calibRootData/calibRootData/DacCol.h  1.3
+  calibRootData/calibRootData/LinkDef.h  1.5
+  calibRootData/calibRootData/Cal/CalSerial.h  1.2
+  calibRootData/calibRootData/Cal/CalGain.h  1.6
+  calibRootData/calibRootData/Cal/CalDimension.h  1.6
+  calibRootData/calibRootData/Cal/CalGainCol.h  1.8
+  calibRootData/calibRootData/Tkr/Tot.h  1.4
+  calibRootData/calibRootData/Tkr/ChargeScale.h  1.2
+  calibRootData/calibRootData/Tkr/TkrTower.h  1.1
+  calibRootData/cmt/.cvsignore  1.1.1.1
+  calibRootData/cmt/requirements  1.38
+  calibRootData/doc/release.notes  1.25
+  calibRootData/src/mainpage.h  1.2
+  calibRootData/src/Tkr/Tot.cxx  1.3
+  calibRootData/src/Tkr/ChargeScale.cxx  1.2
+  calibRootData/src/test/makeTot.cxx  1.4
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-20-09-09, operation: add
 Package: calibRootData
 User: heather  Wed Apr  9 10:43:53 2014
