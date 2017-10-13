@@ -21,7 +21,7 @@ calibRootDataRootcint = libEnv.Rootcint('calibRootData/calibRootData_rootcint.cx
                                          'calibRootData/Tkr/Tot.h',
                                          'calibRootData/LinkDef.h'],
                                         includes = ['src/Cal', 'src/Acd',
-                                                    'src/Tkr'],
+                                                    'src/Tkr', '../include'],
                                         localIncludes=locIncs,
                                         packageName='calibRootData')
 calibRootData = libEnv.RootDynamicLibrary('calibRootData',
